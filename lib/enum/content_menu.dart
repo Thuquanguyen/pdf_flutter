@@ -1,0 +1,1 @@
+enum ContentMenu{detail,rename, favorite,share,print,delete}

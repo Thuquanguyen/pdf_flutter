@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "384599073518",
+    "project_id": "pc-api-6418476665403200658-686",
+    "storage_bucket": "pc-api-6418476665403200658-686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384599073518:android:1906b4b463d3864f8449ff",
+        "android_client_info": {
+          "package_name": "app.digitalcontent.onepdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384599073518-a920i7thckmhsv5r8bmmou264lb0rnlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaQecfXtPVU-Q1GK4cuT377IbCGKepDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384599073518-a920i7thckmhsv5r8bmmou264lb0rnlo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384599073518-6rngih6h8206g5f4l28htoig60aqseh3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.digitalcontent.onepdf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
